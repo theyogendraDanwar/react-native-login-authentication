@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_9571a41ad95a9b8c0b8e8ef10a6292b7b9838631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3aa40b1942267cd57ac2b71ef17e975cf90481ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_7ed5621b08a5660f03cfe6ebfced38db6becc358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base-support/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff84ecfe1dd78b98be147daaa042bc32219793b8">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-base-support-1.3.0_4349454f1c5f1661036548bb7d36a1cb52798147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_c9d2d1a38cdf1127656531ed359ffa85635cdfb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_ecf1ecaa9fea32c387bf7ebd5e69c9d911635ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3aa40b1942267cd57ac2b71ef17e975cf90481ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_9571a41ad95a9b8c0b8e8ef10a6292b7b9838631.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dbbbd290ddc479521c34d8e32ac39cd5965d6204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_93b2a33ee8de28b45bfa67c5c70015fb585f4cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ff997c37654bead6c259c0b124d52bdc944f5bff">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-base-1.3.0_538db13920bfe9acc0c94261c46c4fbc5ac6f5d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_dbbbd290ddc479521c34d8e32ac39cd5965d6204.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_56cc6329bffba0f2689f717c586750f38297a83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c8fceee001042bb2661bc2bdf12bd7edde079038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_32a77cebdb33f8cac71245888032538e8dd0ac54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5912e87172e6218b7ed3852c6498984d6f835a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/webpsupport/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0118b18fa58bfa59b007e93aa84953f7c631a676">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-webpsupport-1.3.0_3cb75ba528dd4e403ed88969a2dcc48e3cdcebd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_0d5e940d93966deb36530da47d502d8c6a047271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c2e696f35afa4aa447d18c1fecbb875a6a64283b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2c43e37fb2e4ff38ecec68f63e7e321506f9729f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_3881c2c30e3b511bf4553ba0dfede0ed26728a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5912e87172e6218b7ed3852c6498984d6f835a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_a50bcbb540d7c42b38d7ffb216009fe3b04050d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_e5345b1ac1dadb4a6fdf8419a9507cf0095ed754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_d08bea4f59ee6c3cc3ae24bfc770348ed0f423c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_e8e310da39c71a7a0fddb7785933cb58063650e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2c43e37fb2e4ff38ecec68f63e7e321506f9729f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_94613986547ce0c2c38e8b9bdf440efca54d8485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af61eb11ffb4296cab0c93218248a3dfcec0a84c">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.0_0d5e940d93966deb36530da47d502d8c6a047271.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_7dce08a8855489028e5f50e9689d45d342504973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_d9ab256e140e2383040cb414f9a340a2c6294a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_ae3c60787c9a1cf036df0afc24af3a683ac199f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_d376c9f9c99c833e685dfbab4a9822eed81f36cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_612f65cec307ee7f92b5091e333fccfac66c5f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_b03bffdcf99281765198e2f207fddaed068179c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-webp/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="132074980d637c7e3d265812dd4c3bf7a4037118">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-webp-1.3.0_6a461468aaa8c87bc30f72f998a1c9b6b5942bc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_6740c5d4b5f7f13080200ead1a327a45641b3e34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_f6efd79fbc81f4688eb07a1b973ddf5d80b71d4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c8fceee001042bb2661bc2bdf12bd7edde079038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/timepass/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0e26ed42d57b372786e8e5401249bf718247dd80">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/timepass-react-native-navigation-unspecified_f3c5cc720674a935dddd6d4b01cbd09ac7ac7f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c2e696f35afa4aa447d18c1fecbb875a6a64283b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/animated-gif/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f79b1232c817718a764464331f75b7c6b0b4da2">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-animated-gif-1.3.0_8de822b4695c38c1c415a5d75446b5b8ecfcf013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_0e08fb171ea3f3c3b8e538317ffcf5714665216d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_2eb8f305ce143a4cfbe13ee2324baf8da9685fa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_bc907f06d9d2fe7bc3e601fa857207b6deca2ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_93b2a33ee8de28b45bfa67c5c70015fb585f4cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_56cc6329bffba0f2689f717c586750f38297a83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_78a440c1bab16f8bc095bb7ddacc4d5ff0dbde2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_bc907f06d9d2fe7bc3e601fa857207b6deca2ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ba7397a708eba3ae6d0e13fc84f4728683ac694a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/yogendra/Desktop/ReactNative/timepass/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c28c17b83ff21c8b23cd69611c899ab87625207c.jar" />
+    </item>
+
+</items>
